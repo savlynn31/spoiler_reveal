@@ -1,0 +1,33 @@
+body {
+  background: #847587;
+  font-family: sans-serif;
+}
+img {
+  display: block;
+  width: 150px;
+  margin: 100px auto 80px auto;
+}
+button {
+  background: #474951;
+  border: none;
+  border-radius: 5px;
+  color: #faffdb;
+  font-size: 24px;
+  width: 480px;
+  padding: 40px 0;
+  margin: -40px -20px;
+  outline: none;
+  cursor: pointer;
+}
+.spoiler {
+	background:#9491a3;
+  width: 440px;
+  margin: 0 auto 20px;
+  border-radius: 5px;
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 24px
+}
+.spoiler span {
+  color: #474951;
+}
